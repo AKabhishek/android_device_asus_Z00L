@@ -15,3 +15,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_Z00L.mk
+    $(LOCAL_DIR)/aoscp.mk
